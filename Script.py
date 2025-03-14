@@ -3,9 +3,9 @@
 # Ask Doubt on telegram @KingVJ01
 
 class script(object):
-    START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {} 👋,</blockquote>
-    
-ɪ ᴀᴍ ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀɴᴅ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ.</b>"""
+    START_TXT = """<b>😍 ʜᴇʏ {},🙃
+
+💥ɪ ᴀᴍ ᴀᴅᴠᴀɴᴄᴇᴅ & ᴘᴏᴡᴇʀꜰᴜʟʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ, ɪ ᴡɪʟʟ ɢɪᴠᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ, ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ 💥</b>"""
 
     CLONE_START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
     
@@ -225,9 +225,11 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
-
-<b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
+    CAPTION = """<b>{file_name}
+╔═══ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═══╗ 
+♻️ @CINEMACOMPANYE
+♻️ @ThatyssBot
+╚═══ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═══╝</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
