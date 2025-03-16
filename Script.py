@@ -232,20 +232,12 @@ Nᴀᴍᴇ - {}"""
 ╚═══ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═══╝</b>""" 
 
     IMDB_TEMPLATE_TXT = """
-<b>Query: {qurey}
+<b>Hey {message.from_user.mention}
+Tʜᴇ Rᴇꜱᴜʟᴛꜱ Fᴏʀ ☞  <code>{qurey}</code>
+ʀᴇsᴜʟᴛ sʜᴏᴡ ɪɴ ☞  {remaining_seconds} <i>seconds</i>
+ᴘᴏᴡᴇʀᴇᴅ ʙʏ ☞  @CINEMACOMPANYE
 
-IMDb Data:
-
-<b>🏷 Title</b>: <a href={url}>{title}</a>
-🎭 Genres: {genres}
-📆 Year: <a href={url}/releaseinfo>{year}</a>
-🌟 Rating: <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.)
-☀️ Languages : <code>{languages}</code>
-📀 RunTime: {runtime} Minutes
-📆 Release Info : {release_date}
-🎛 Countries : <code>{countries}</code>
-
-Requested by : {message.from_user.mention}</b>"""
+⚠️ ᴀꜰᴛᴇʀ 5 ᴍɪɴᴜᴛᴇꜱ ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴡɪʟʟ ʙᴇ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴅᴇʟᴇᴛᴇᴅ 🗑️</b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
