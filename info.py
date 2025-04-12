@@ -11,8 +11,8 @@ id_pattern = re.compile(r'^.\d+$')
 
 # Bot information
 SESSION = environ.get('SESSION', 'TechVJBot')
-API_ID = int(environ.get('API_ID', '26149781'))
-API_HASH = environ.get('API_HASH', '88313af84cc33ca52912459da2a78685')
+API_ID = int(environ.get('API_ID', '7706833'))
+API_HASH = environ.get('API_HASH', 'af97386624720b3414d7e37795cdf0d6')
 BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 
@@ -21,7 +21,7 @@ PICS = (environ.get('PICS', 'https://graph.org/file/1d828fbeb4a03531d146c-14424e
 
 
 # Admins & Users
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6352033753 1786851907').split()] # For Multiple Id Use One Space Between Each.
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1729805614').split()] # For Multiple Id Use One Space Between Each.
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]  # For Multiple Id Use One Space Between Each.
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 
