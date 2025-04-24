@@ -226,10 +226,10 @@ Nᴀᴍᴇ - {}"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """<b>{file_name}
-╔═══ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═══╗ 
+╔═══ <a href='https://t.me/+adTEOfoW38BhOTY1'>ᴊᴏɪɴ ᴡɪᴛʜ ᴜs</a> ═══╗ 
 ♻️ @CINEMACOMPANYE
 ♻️ @ThatyssBot
-╚═══ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═══╝</b>""" 
+╚═══ <a href='https://t.me/+adTEOfoW38BhOTY1'>ᴊᴏɪɴ ᴡɪᴛʜ ᴜs</a> ═══╝</b>""" # 
 
     IMDB_TEMPLATE_TXT = """
 <b>Hey {message.from_user.mention}
