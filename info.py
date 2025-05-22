@@ -37,7 +37,7 @@ REQUEST_TO_JOIN_MODE = bool(environ.get('REQUEST_TO_JOIN_MODE', True)) # Set Tru
 TRY_AGAIN_BTN = bool(environ.get('TRY_AGAIN_BTN', False)) # Set True Or False (This try again button is only for request to join fsub not for normal fsub)
 
 # This Is Force Subscribe Channel, also known as Auth Channel 
-auth_channel = environ.get('AUTH_CHANNEL', '-1002690816712') # -1002470875163 give your force subscribe channel id here else leave it blank
+auth_channel = environ.get('AUTH_CHANNEL', '-1002573113347') #  -1002690816712 -1002470875163 give your force subscribe channel id here else leave it blank
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 
 # This Channel Is For When User Request Any File Name With command or hashtag like - /request or #request
@@ -88,9 +88,9 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Us
 
 
 # Links
-GRP_LNK = environ.get('GRP_LNK', 't.me/CINEMACOMPANYE')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+GF7wG55feCAzZjU1')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'CINEMACOMPANYE') # Support Chat Link Without https:// or @
+GRP_LNK = environ.get('GRP_LNK', 't.me/CINEMA_COMPANYE_Backup')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/TBM_Bot_Updates')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'CINEMA_COMPANYE_Backup') # Support Chat Link Without https:// or @
 OWNER_LNK = environ.get('OWNER_LNK', 'https://youtube.com/@iqbaleditzzz?si=zfiuuuPhmcyPlE_2')
 
 # True Or False
