@@ -226,16 +226,17 @@ Nᴀᴍᴇ - {}"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """<b>{file_name}
-╔═══ <a href='https://t.me/+adTEOfoW38BhOTY1'>ᴊᴏɪɴ ᴡɪᴛʜ ᴜs</a> ═══╗ 
-♻️ @CINEMACOMPANYE
+╔═══ <a href='https://t.me/+ESq99-wqZVk3MmFl'>ᴊᴏɪɴ ᴡɪᴛʜ ᴜs</a> ═══╗ 
+♻️ @CINEMA_COMPANYE_Backup
+♻️ @TBM_Bot_Updates
 ♻️ @ThatyssBot
-╚═══ <a href='https://t.me/+adTEOfoW38BhOTY1'>ᴊᴏɪɴ ᴡɪᴛʜ ᴜs</a> ═══╝</b>""" # 
+╚═══ <a href='https://t.me/+ESq99-wqZVk3MmFl'>ᴊᴏɪɴ ᴡɪᴛʜ ᴜs</a> ═══╝</b>""" # 
 
     IMDB_TEMPLATE_TXT = """
 <b>Hey {message.from_user.mention}
 Tʜᴇ Rᴇꜱᴜʟᴛꜱ Fᴏʀ ☞  <code>{qurey}</code>
 ʀᴇsᴜʟᴛ sʜᴏᴡ ɪɴ ☞  {remaining_seconds} <i>seconds</i>
-ᴘᴏᴡᴇʀᴇᴅ ʙʏ ☞  @CINEMACOMPANYE
+ᴘᴏᴡᴇʀᴇᴅ ʙʏ ☞  @CINEMA_COMPANYE_Backup
 
 ⚠️ ᴀꜰᴛᴇʀ 5 ᴍɪɴᴜᴛᴇꜱ ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴡɪʟʟ ʙᴇ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴅᴇʟᴇᴛᴇᴅ 🗑️</b>"""
     
